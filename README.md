@@ -11,7 +11,7 @@ and supports certain commands described below.
 
 ## Data Structures
 ### Features 
-- Lines (or string objects if you will) are kept in a **linked list** structure. 
+- Lines -string objects- are kept in a **linked list** structure. 
 - Each line is stored in a separate node.
 - A **stack** utilized in order to keep track of all actions carried out so that undo actions can be done. 
 
