@@ -54,13 +54,13 @@ string provided in `text`.
 replace 3 text
 ```
 
-7. **next:** Contents of the file should not change, but displays
+7. **next:** Contents of the file does not change, but displays
 the next page.
 ```
 next
 ```
 
-8. **prev:** Contents of the file should not change, but displays
+8. **prev:** Contents of the file does not change, but displays
 the previous page.
 ```
 prev
